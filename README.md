@@ -1,7 +1,7 @@
 # ByteScript
 A python library of a collection of automation scripts to reduce your time and effort of devs
 
-<img src="https://github.com/TheByteSlash/ByteScript/blob/master/media/hacktoberfest2020.png?raw=true">
+<img src="https://github.com/TheByteSlash/ByteScript/blob/main/media/hactoberfest2020.png">
 
 ---
 
