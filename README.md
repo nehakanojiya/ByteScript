@@ -1,5 +1,5 @@
 # ByteScript
-A python library of a collection of automation scripts to reduce your time and effort of devs
+A python library of a collection of automation scripts to reduce your time and effort of devs and A Python library is also a reusable chunk of code that you may want to include in your programs/ projects 
 
 <img src="https://github.com/TheByteSlash/ByteScript/blob/main/media/hactoberfest2020.png">
 
